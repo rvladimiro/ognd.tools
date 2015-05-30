@@ -21,9 +21,7 @@ Generates random strings
 }
 \details{
 The random string generation will generate a vector of n random strings, created by
-sampling from upper and lower letters.
-
-If include_numbers is true, then numbers will also be
+sampling from upper and lower letters. If include_numbers is true, then numbers will also be
 used to build the random strings. Random strings are created taking into consideration a
 random seed if it is set by set.seed() function.
 }
