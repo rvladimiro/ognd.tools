@@ -1,0 +1,9 @@
+Package: ognd.tools
+Type: Package
+Title: On Games N' Data tools
+Version: 1.0
+Date: 2015-05-30
+Author: Ricardo Vladimiro
+Maintainer: Ricardo Vladimiro <r.vladimiro@gmail.com>
+Description: My collection of assorted tools
+License: MIT
